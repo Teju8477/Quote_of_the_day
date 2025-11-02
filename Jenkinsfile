@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/teju8477/quote-of-the-day.git'
+                git branch: 'main', url: 'https://github.com/teju8477/quote_of_the_day.git'
             }
         }
 

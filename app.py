@@ -10,6 +10,9 @@ quotes = [
     "Dream big, work hard, stay humble.",
     "You are capable of amazing things.",
     "Success starts with self-belief."
+    "The best way to get started is to quit talking and begin doing.",
+    "Don't let yesterday take up too much of today.",
+    "You learn more from failure than from success.",
 ]
 
 @app.route('/')
